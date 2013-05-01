@@ -4,7 +4,7 @@
   <title><![CDATA[What I do...]]></title>
   <link href="http://griffgruff.github.io/atom.xml" rel="self"/>
   <link href="http://griffgruff.github.io/"/>
-  <updated>2013-05-01T14:49:32+01:00</updated>
+  <updated>2013-05-01T15:08:25+01:00</updated>
   <id>http://griffgruff.github.io/</id>
   <author>
     <name><![CDATA[Anthony Griffiths]]></name>
@@ -18,7 +18,20 @@
     <link href="http://griffgruff.github.io/blog/2013/05/01/test/"/>
     <updated>2013-05-01T14:31:00+01:00</updated>
     <id>http://griffgruff.github.io/blog/2013/05/01/test</id>
-    <content type="html"><![CDATA[<p>Another post</p>
+    <content type="html"><![CDATA[<p>Another post
+humm&#8230;</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>class Fixnum
+</span><span class='line'>  def prime?
+</span><span class='line'>      ('1' * self) !~ /^1?$|^(11+?)\1+$/
+</span><span class='line'>  end
+</span><span class='line'>end</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
