@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[What I do...]]></title>
+  <link href="http://griffgruff.github.io/atom.xml" rel="self"/>
+  <link href="http://griffgruff.github.io/"/>
+  <updated>2013-05-01T14:49:32+01:00</updated>
+  <id>http://griffgruff.github.io/</id>
+  <author>
+    <name><![CDATA[Anthony Griffiths]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://griffgruff.github.io/blog/2013/05/01/test/"/>
+    <updated>2013-05-01T14:31:00+01:00</updated>
+    <id>http://griffgruff.github.io/blog/2013/05/01/test</id>
+    <content type="html"><![CDATA[<p>Another post</p>
+]]></content>
+  </entry>
+  
+</feed>
